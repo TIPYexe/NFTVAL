@@ -1,3 +1,33 @@
+# App Demo
+
+Hint: Toate paginile au o animatie atunci cand se incarca: apar de jos in sus + butonul din meniu pune un cerc in spatele paginii deschise
+
+![selectRole](https://user-images.githubusercontent.com/53595545/167317214-ac9b6fdb-18ad-4b5b-84de-86dea65727ca.jpeg)
+## INSERT user
+![signup](https://user-images.githubusercontent.com/53595545/167317216-70d124ab-81c6-4e9c-8be8-d1280d102213.jpeg)
+
+## SELECT user by id
+![login](https://user-images.githubusercontent.com/53595545/167317220-9e317ac1-f582-45fd-bd64-59eaaf0c571c.jpeg)
+
+## REQUEST la 2 API-uri pentru obtinerea colectiilor + numele acestora
+![dashboard](https://user-images.githubusercontent.com/53595545/167317225-7e1b7808-c404-4f03-849c-3df28fc8d5f7.jpeg)
+
+## REQUEST la 1 API pentru a obtine NFT-urile dintr-o colectie
+![viewCollection](https://user-images.githubusercontent.com/53595545/167317237-81115705-833a-4595-b8bb-3bd364a28f7f.jpeg)
+![viewNft](https://user-images.githubusercontent.com/53595545/167317238-5ab5f852-3242-4dac-99fc-a8a53ac92af5.jpeg)
+
+## BONUS: Generare de QR
+![generateQR](https://user-images.githubusercontent.com/53595545/167317239-2fc0c5a0-edaa-4195-a8df-11c2b89548fb.jpeg)
+
+![wallets](https://user-images.githubusercontent.com/53595545/167317228-4f4dbe92-02de-43ae-986f-6d5431d6db00.jpeg)
+## Animatie de Popup
+![deleteWallet](https://user-images.githubusercontent.com/53595545/167317265-193894ea-dbf3-42a7-a5f9-64ffd218f36b.jpeg)
+
+## DELETE user si UPDATE email
+![profile](https://user-images.githubusercontent.com/53595545/167317231-78566a77-895d-497c-8619-6b0ae19ce67f.jpeg)
+
+
+
 # Development Setup
 
 ## Backend API (Django)
